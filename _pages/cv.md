@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Ashton Cho - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
@@ -8,38 +8,38 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [ac2974@cornell.edu](mailto:ac2974@cornell.edu) | | | **Phone:** +408 391 6272
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring engineering student with a strong foundation in Mechanical Engineering Passionate about Robotics and eager to apply my knowledge in real-world applications.
 
 ---
 
 #### Education
 - **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  *Bachelor of Science in Mechanical Engineering*  
+  GPA: 3.5/4.0 | Graduation: May, 2028
 
-- **[High School Name]**  
+- **Valley Christian High School**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: [May, 2024]
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Software:** Autodesk Fusion 360, Autodesk Inventor, Onshape, ANSYS  
+- **Programming:** Python  
+- **Tools:** 3D Printing, Laser Cutting, Bandsaw
 
 ---
 
 #### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **Lift Design**:  
+  *A mechanism used to lift heavy objects vertically using a linear actuator*  
+  - Utilized Force analysis to deterimine max lift height and weight of mechanism.
+  - Used drawing tools to sketch design by hand
 
 - **[Project Title]**:  
   *[Short Description]*  
@@ -63,7 +63,7 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
+- Member of Cornell Mars Rover
 - Volunteer for [Event/Organization Name]  
 
 ---
