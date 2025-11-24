@@ -2,10 +2,9 @@
 layout: project
 title: thermofluidsystemanalysis
 description: Class project
-technologies: [IPad] [Onshape]
+technologies: [IPad]
 image: /assets/images/heat_exchanger.png
 ---
-
 
 As part of a class project I analyzed a real life thermodynamic fluids system and explored the efficiencies of two different heat exchanger setups. I used Onshape to model the heat exchanger.
 
