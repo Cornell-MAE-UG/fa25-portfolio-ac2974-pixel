@@ -1,9 +1,9 @@
 ---
 layout: project
-title: Lift of Object
+title: thermofluidsystemanalysis
 description: Class project
-technologies: [IPad]
-image: /assets/images/lift-project.jpg
+technologies: [IPad] [Onshape]
+image: /assets/images/heat_exchanger.png
 ---
 
 
