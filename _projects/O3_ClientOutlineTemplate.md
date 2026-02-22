@@ -31,15 +31,15 @@ pagestyle: empty
 ### Questions for the client
 1. **How sensitive are SLF to a slight touch from the device?**
 
-*Decision affected:* How fast the device will rotate to push the SLF inwards.
+   *Decision affected:* How fast the device will rotate to push the SLF inwards.
 
 3. **How many SLF do you usually see daily when out on the farm?**
 
-*Decision affected:* How large a container should be on the bottom of the device?
+   *Decision affected:* How large a container should be on the bottom of the device?
    
 3. **What portion (%) of the SLF needs to be killed/removed to have a significant impact?**
 
-*Decision affected:* Size of implementation of the proposed device
+   *Decision affected:* Size of implementation of the proposed device
 
 ## References
 
