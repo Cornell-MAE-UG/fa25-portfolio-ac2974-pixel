@@ -8,7 +8,8 @@ papersize: letter
 pagestyle: empty
 ---
 
-**Team:** Cornellian Capybaras \newline
+**Team:** Cornellian Capybaras
+
 **Client(s):** Cornell CALS Extension / E\&J Gallo Winery / National Grape
 
 **Problem statement**: The New York Grape industry is suffering from a new invasive pest, the Spotted Lanternfly (SLF). SLF are swarming vineyards, weakening and killing grapevines. *The Spotted Lanternfly Mechanical Grape Harvester: Initial Study* counted an average of 22.9 SLF per vine (about 510 SLF per 100-foot row). Furthermore, any SLF that gets into the harvest bins is considered foreign matter, raising issues with the FDA. The industry is looking for ways to remove SLF from the vines and eliminate their matter from the harvest. Two obvious solutions to preventing SLF contamination are spraying insecticide shortly before harvest and removing/killing the SLF during harvesting. These present a few issues: Using mass pesticides might cause environmental problems, and pesticide use involves a complicated set of Food Safety Requirements from the USDA. Killing while harvesting potentially would incur damage to the grape crops while being harvested.
