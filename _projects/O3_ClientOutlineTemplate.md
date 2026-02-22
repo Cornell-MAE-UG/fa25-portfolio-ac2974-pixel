@@ -1,4 +1,6 @@
 ---
+layout: project
+image: /assets/images/LSF.png
 fontsize: 11pt
 geometry: margin=1in
 papersize: letter
