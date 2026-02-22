@@ -17,8 +17,10 @@ pagestyle: empty
 **Impact**: Removing the SLF would dramatically increase rates of grape production, leading to increased overall sales, improved harvesting efficiency, and lower costs of grape products.
 
 ### Concept A: Rotation Trap
-**What it is:** A small device that would lure SLF within a 1m radius into a container using some attractant (food, tree of heaven sap). It would trap the SLF using a rotating mechanism that would push lanternflies into small one-way slits at a constant frequency. Soapy water within the container would kill the SLF. The devices can be tiled along the vineyard for a large area of effect, and can be maintained manually by cleaning the water and SLF matter as needed. \newline
-**Why it’s better than the status quo:** Once put into place, the user no longer needs to put more effort in beyond cleaning and resetting. Also, the device works without any supervision, allowing for more time to be spent working. \newline
+**What it is:** A small device that would lure SLF within a 1m radius into a container using some attractant (food, tree of heaven sap). It would trap the SLF using a rotating mechanism that would push lanternflies into small one-way slits at a constant frequency. Soapy water within the container would kill the SLF. The devices can be tiled along the vineyard for a large area of effect, and can be maintained manually by cleaning the water and SLF matter as needed.
+
+**Why it’s better than the status quo:** Once put into place, the user no longer needs to put more effort in beyond cleaning and resetting. Also, the device works without any supervision, allowing for more time to be spent working.
+
 **End-of-semester proof-of-concept:** A plastic to-scale prototype of the trap with demonstrated functionality in the rotation, clean-up, and mono-directionality to simulate the implementation in the field.
 
 ### Key risks / unknowns
