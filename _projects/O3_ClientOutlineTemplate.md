@@ -1,5 +1,6 @@
 ---
 layout: project
+title: Spotted Lanternfly Eradication via Mechanical Rotating Trap
 image: /assets/images/LSF.png
 fontsize: 11pt
 geometry: margin=1in
@@ -7,7 +8,6 @@ papersize: letter
 pagestyle: empty
 ---
 
-# Spotted Lanternfly Eradication via Mechanical Rotating Trap
 **Team:** Cornellian Capybaras \newline
 **Client(s):** Cornell CALS Extension / E\&J Gallo Winery / National Grape
 
@@ -34,8 +34,6 @@ pagestyle: empty
 
 3. **What portion (%) of the SLF needs to be killed/removed to have a significant impact?**\newline
 *Decision affected:* Size of implementation of the proposed device
-
-\newpage
 
 ## References
 
