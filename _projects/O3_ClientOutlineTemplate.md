@@ -8,7 +8,16 @@ papersize: letter
 pagestyle: empty
 ---
 
-**Team:** Cornellian Capybaras
+**About:** Spotted Lanternflies have quickly become a serious threat to vineyards across New York, disrupting harvests and reducing crop yields. In response, our team worked with Cornell CALS Extension and industry partners to design a practical, non-chemical solution. The result is a rotating trap system that passively captures and eliminates SLF in the field. This page walks through the full development process—from early concept to working prototype to final recommendations.
+
+## Table of Contents
+- [Client Pitch](#client-pitch)
+- [Functional Prototype](#functional-prototype)
+- [Client Report](#client-report)
+
+**Team:** W1 Cornellian Capybaras
+
+### Client Pitch
 
 **Client(s):** Cornell CALS Extension / E\&J Gallo Winery / National Grape
 
@@ -46,3 +55,10 @@ pagestyle: empty
 - https://nygpadmin.cce.cornell.edu/pdf/impact_ny/pdf92_pdf.pdf (LERGP Annual Impact 2025)
 - https://youtu.be/LCnp9H1SIX8?si=DDxwivgtdUjEOsPg (Similar Design)
 
+### Functional Prototype
+
+[View Report](assets/ODP5.pdf)
+
+### Client Report
+
+[View Report](assets/ODP6.pdf)
