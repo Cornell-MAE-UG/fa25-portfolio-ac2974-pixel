@@ -58,18 +58,18 @@ pagestyle: empty
 ### Functional Prototype
 [View PDF of Functional Prototype]({{ '/assets/ODP5.pdf' | relative_url }})
 
-![5Page 1]({{ '/assets/images/ODP5_1.png' | relative_url }}){: .inline-image-l}
-![5Page 2]({{ '/assets/images/ODP5_2.png' | relative_url }}){: .inline-image-l}
-![5Page 3]({{ '/assets/images/ODP5_3.png' | relative_url }}){: .inline-image-l}
-![5Page 4]({{ '/assets/images/ODP5_4.png' | relative_url }}){: .inline-image-l}
-![5Page 5]({{ '/assets/images/ODP5_5.png' | relative_url }}){: .inline-image-l}
-![5Page 6]({{ '/assets/images/ODP5_6.png' | relative_url }}){: .inline-image-l}
+![5Page 1]({{ '/assets/images/ODP5_1.png' | relative_url }}){: .inline-image}
+![5Page 2]({{ '/assets/images/ODP5_2.png' | relative_url }}){: .inline-image}
+![5Page 3]({{ '/assets/images/ODP5_3.png' | relative_url }}){: .inline-image}
+![5Page 4]({{ '/assets/images/ODP5_4.png' | relative_url }}){: .inline-image}
+![5Page 5]({{ '/assets/images/ODP5_5.png' | relative_url }}){: .inline-image}
+![5Page 6]({{ '/assets/images/ODP5_6.png' | relative_url }}){: .inline-image}
 
 ### Client Report
 
 [View PDF of Client Report]({{ '/assets/ODP6.pdf' | relative_url }})
 
-![6Page 1]({{ '/assets/images/ODP6_1.png' | relative_url }}){: .inline-image-l}
-![6Page 2]({{ '/assets/images/ODP6_2.png' | relative_url }}){: .inline-image-l}
-![6Page 3]({{ '/assets/images/ODP6_3.png' | relative_url }}){: .inline-image-l}
-![6Page 4]({{ '/assets/images/ODP6_4.png' | relative_url }}){: .inline-image-l}
+![6Page 1]({{ '/assets/images/ODP6_1.png' | relative_url }}){: .inline-image}
+![6Page 2]({{ '/assets/images/ODP6_2.png' | relative_url }}){: .inline-image}
+![6Page 3]({{ '/assets/images/ODP6_3.png' | relative_url }}){: .inline-image}
+![6Page 4]({{ '/assets/images/ODP6_4.png' | relative_url }}){: .inline-image}
