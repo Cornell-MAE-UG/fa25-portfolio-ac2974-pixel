@@ -56,9 +56,20 @@ pagestyle: empty
 - https://youtu.be/LCnp9H1SIX8?si=DDxwivgtdUjEOsPg (Similar Design)
 
 ### Functional Prototype
+[View PDF of Functional Prototype](/assets/ODP5.pdf)
 
-[View Report](assets/ODP5.pdf)
+![5Page 1](/assets/images/ODP5_1.png)
+![5Page 2](/assets/images/ODP5_2.png)
+![5Page 3](/assets/images/ODP5_3.png)
+![5Page 4](/assets/images/ODP5_4.png)
+![5Page 5](/assets/images/ODP5_5.png)
+![5Page 6](/assets/images/ODP5_6.png)
 
 ### Client Report
 
-[View Report](assets/ODP6.pdf)
+[View PDF of Client Report](/assets/ODP6.pdf)
+
+![6Page 1](/assets/images/ODP6_1.png)
+![6Page 2](/assets/images/ODP6_2.png)
+![6Page 3](/assets/images/ODP6_3.png)
+![6Page 4](/assets/images/ODP6_4.png)
